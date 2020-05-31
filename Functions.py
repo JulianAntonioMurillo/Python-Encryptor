@@ -1,8 +1,8 @@
-#Julian Murillo
-#002301366
-#jmurillo@chapman.edu
-#230-06
-#PA7-Encryption/Decryption
+# Julian Murillo
+# 002301366
+# jmurillo@chapman.edu
+# CPSC 230
+# Encrypt/decrypt
 
 #Function One: encryption
 def encrypt(unencrypted_file,map_file):
